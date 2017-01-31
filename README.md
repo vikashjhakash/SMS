@@ -2,7 +2,8 @@
 School Management System is designed for maintaining school website.
 
 # Features:
--> Brochure website for guest user.
+-> Brochure website for guest user
+
 -> Students Login/Parent Login 
   ` Give Online Exams`
   ` Read online tutorials`
