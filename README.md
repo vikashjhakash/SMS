@@ -6,71 +6,71 @@ School Management System is designed for maintaining school website.
 
 -> Students Login/Parent Login 
 
-  ` Give Online Exams`
+  `Give Online Exams
   
-  ` Read online tutorials`
+   Read online tutorials
   
-  ` Book Complains / Meetings`
+   Book Complains / Meetings
   
-  ` Get results online`
+   Get results online
   
-  ` Online Attendance`
+   Online Attendance
   
-  ` Apply Leave`
+   Apply Leave
   
-  ` See Syllabus`
+   See Syllabus
   
-  ` See fee details`
+   See fee details
   
-  ` Pay fee online`
+   Pay fee online
   
-  ` See Notification - Exams/Events/Award/etc`
+   See Notification - Exams/Events/Award/etc
   
-  ` Give Feedbacks`
+   Give Feedbacks`
   
  -> Teachers Login
  
-  ` Apply leave`
+  `Apply leave
   
-  ` Get salary details`
+  Get salary details
   
-  ` Get student's/parent's request/complaints`
+  Get student's/parent's request/complaints
   
-  ` View/Update results`
+  View/Update results
   
-  ` View/Update attendence`
+  View/Update attendence
   
-  ` Add Events/Notifications`
+  Add Events/Notifications
   
-  ` Add Syllabus`
+  Add Syllabus
   
-  ` Add/Update/Delete Online exams`
+  Add/Update/Delete Online exams
   
-  ` Book complains / meetings with parents`
+  Book complains / meetings with parents`
   
   -> Admin Login
   
-    `Add/Remove Student`
+   `Add/Remove Student
     
-    `Add/Remove Teacher/Staff`
+    Add/Remove Teacher/Staff
     
-    `Update Salary`
+    Update Salary
     
-    `View/Update fee details of students`
+    View/Update fee details of students
     
-    `Read Feedbacks`
+    Read Feedbacks
   ` `
-    `Create Notification/Events`
+    Create Notification/Events
     
-    `Book meeting / complains with staff/parents`
+    Book meeting / complains with staff/parents
     
-    `Provide fee rebates`
+    Provide fee rebates
     
-    `View/Update results`
+    View/Update results
   
-    `View/Update attendence`
+    View/Update attendence
     
-    `Add/Update/Delete Online exams`
+    Add/Update/Delete Online exams`
     
 -> Online Fee Payment
 
